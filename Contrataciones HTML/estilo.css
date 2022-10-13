@@ -1,0 +1,283 @@
+body{
+    background: url("/Users/chulezulueta/Desktop/booking/IMG/movil.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+.contenedor{
+  background-image:url("/Users/chulezulueta/Desktop/booking/IMG/CONTRATACIONES.png");
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 75%;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:95px;
+  margin-left:65px;
+  flex-direction: column;
+
+}
+.contenedor2{
+  background-image:url("/Users/chulezulueta/Desktop/booking/IMG/INSTAGRAM.png");
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 75%;
+  background-size: contain;
+  flex-direction: column;
+  margin-top:-340px;
+  margin-left:65px;
+}
+.contenedor3{
+  background-image: url("/Users/chulezulueta/Desktop/booking/IMG/SPOTIFY.png");
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 75%;
+  background-size: contain;
+  flex-direction: column;
+  margin-top:-340px;
+  margin-left:65px;
+
+}
+@media only screen and (min-width:430px){
+  body{
+      background: url("/Users/chulezulueta/Desktop/booking/IMG/movil.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 0;
+      margin: 0;
+    }
+  .contenedor{
+    height: 400px;
+    width: 60%;
+    margin-left: 100px
+  }
+  .contenedor2{
+    height: 400px;
+    width: 60%;
+    margin-top:-320px;
+    margin-left: 101px
+  }
+    .contenedor3{
+      height: 400px;
+      width: 60%;
+      margin-top:-320px;
+      margin-left:101px;
+    }
+}
+@media only screen and (min-width:500px){
+  body{
+      background: url("/Users/chulezulueta/Desktop/booking/IMG/movil.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 0;
+      margin: 0;
+      width:100%;
+    }
+    .contenedor{
+      height: 500px;
+      width: 65%;
+      margin-left: 120px;
+      margin-top:130px;
+      margin-bottom:0px
+
+    }
+    .contenedor2{
+      height:500px;
+      width: 65%;
+      margin-top:-420px;
+      margin-left: 120px;
+      margin-bottom:0x;
+    }
+      .contenedor3{
+        height:500px;
+      width: 65%;
+      margin-top:-420px;
+      margin-left: 120px;
+      }
+
+      @media only screen and (width:768px){
+        body{
+            background: url("/Users/chulezulueta/Desktop/booking/IMG/Tablet.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            padding: 0;
+            margin: 0;
+          }
+        header{
+          width: 100%;
+          margin-left: -85px;
+        }
+          }
+@media only screen and (min-width:834px){
+  body{
+      background: url("/Users/chulezulueta/Desktop/booking/IMG/Tablet.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 0;
+      margin: 0;
+    }
+  header{
+    width: 100%;
+    margin-left: -85px;
+  }
+    }
+
+    @media only screen and (min-width:1024px){
+      body{
+        background: url("/Users/chulezulueta/Desktop/booking/IMG/Tablet.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0;
+        margin: 0;
+      }
+      .contenedor{
+        height: 300px;
+        width: 39%;
+        margin-left: 460px;
+        margin-top:40px;
+        margin-bottom:30px
+
+      }
+      .contenedor2{
+        height:300px;
+        width: 39%;
+        margin-top:-200px;
+        margin-left: 460px;
+        margin-bottom:25px;
+      }
+        .contenedor3{
+          height: 300px;
+          width: 39%;
+          margin-top:-200px;
+          margin-left:460px;
+        }
+      }
+      @media only screen and (max-height:1200px){
+        body{
+            background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            padding: 0;
+            margin: 0;
+        }
+        .contenedor{
+     height: 300px;
+     width: 30%;
+     margin-left: 600px;
+     margin-top:40px;
+     margin-bottom:20px
+
+   }
+   .contenedor2{
+     height:300px;
+     width: 30%;
+     margin-top:-200px;
+     margin-left: 600px;
+     margin-bottom:25px;
+   }
+     .contenedor3{
+       height: 300px;
+       width: 30%;
+       margin-top:-200px;
+       margin-left:600px;
+     }
+}
+
+@media only screen and (max-height:2200px){
+  @media only screen and (max-height:1200px){
+     body{
+         background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+         background-repeat: no-repeat;
+         background-size: cover;
+         padding: 0;
+         margin: 0;
+     }
+     .contenedor{
+  height: 300px;
+  width: 30%;
+  margin-left: 600px;
+  margin-top:40px;
+  margin-bottom:20px
+
+}
+.contenedor2{
+  height:300px;
+  width: 30%;
+  margin-top:-200px;
+  margin-left: 600px;
+  margin-bottom:25px;
+}
+  .contenedor3{
+    height: 300px;
+    width: 30%;
+    margin-top:-200px;
+    margin-left:600px;
+  }
+}
+
+@media only screen and (max-height:2200px){
+body{
+   background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 0;
+   margin: 0;
+   height: 180px;
+
+}
+.contenedor{
+height: 300px;
+width: 30%;
+margin-left: 600px;
+margin-top:40px;
+margin-bottom:20px
+
+}
+.contenedor2{
+height:300px;
+width: 30%;
+margin-top:-200px;
+margin-left: 600px;
+margin-bottom:25px;
+}
+.contenedor3{
+height: 300px;
+width: 30%;
+margin-top:-200px;
+margin-left:600px;
+}
+}
+@media only screen and (max-height:2200px){
+body{
+   background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 0;
+   margin: 0;
+   height: 180px;
+
+}
+.contenedor{
+height: 300px;
+width: 30%;
+margin-left: 600px;
+margin-top:40px;
+margin-bottom:20px
+
+}
+.contenedor2{
+height:300px;
+width: 30%;
+margin-top:-200px;
+margin-left: 600px;
+margin-bottom:25px;
+}
+.contenedor3{
+height: 300px;
+width: 30%;
+margin-top:-200px;
+margin-left:600px;
+}
+}

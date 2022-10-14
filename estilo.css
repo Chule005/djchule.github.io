@@ -1,12 +1,12 @@
 body{
-    background: url("/Users/chulezulueta/Desktop/booking/IMG/movil.png");
+    background: url("/IMG/movil.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0;
     margin: 0;
 }
 .contenedor{
-  background-image:url("/Users/chulezulueta/Desktop/booking/IMG/CONTRATACIONES.png");
+  background-image:url("/IMG/CONTRATACIONES.png");
   background-repeat: no-repeat;
   height: 400px;
   width: 75%;
@@ -20,7 +20,7 @@ body{
 
 }
 .contenedor2{
-  background-image:url("/Users/chulezulueta/Desktop/booking/IMG/INSTAGRAM.png");
+  background-image:url("/IMG/INSTAGRAM.png");
   background-repeat: no-repeat;
   height: 400px;
   width: 75%;
@@ -30,7 +30,7 @@ body{
   margin-left:65px;
 }
 .contenedor3{
-  background-image: url("/Users/chulezulueta/Desktop/booking/IMG/SPOTIFY.png");
+  background-image: url("/IMG/SPOTIFY.png");
   background-repeat: no-repeat;
   height: 400px;
   width: 75%;
@@ -42,7 +42,7 @@ body{
 }
 @media only screen and (min-width:430px){
   body{
-      background: url("/Users/chulezulueta/Desktop/booking/IMG/movil.png");
+      background: url("IMG/movil.png");
       background-repeat: no-repeat;
       background-size: cover;
       padding: 0;
@@ -68,7 +68,7 @@ body{
 }
 @media only screen and (min-width:500px){
   body{
-      background: url("/Users/chulezulueta/Desktop/booking/IMG/movil.png");
+      background: url("/IMG/movil.png");
       background-repeat: no-repeat;
       background-size: cover;
       padding: 0;
@@ -99,7 +99,7 @@ body{
 
       @media only screen and (width:768px){
         body{
-            background: url("/Users/chulezulueta/Desktop/booking/IMG/Tablet.png");
+            background: url("/IMG/Tablet.png");
             background-repeat: no-repeat;
             background-size: cover;
             padding: 0;
@@ -112,7 +112,7 @@ body{
           }
 @media only screen and (min-width:834px){
   body{
-      background: url("/Users/chulezulueta/Desktop/booking/IMG/Tablet.png");
+      background: url("/IMG/Tablet.png");
       background-repeat: no-repeat;
       background-size: cover;
       padding: 0;
@@ -126,7 +126,7 @@ body{
 
     @media only screen and (min-width:1024px){
       body{
-        background: url("/Users/chulezulueta/Desktop/booking/IMG/Tablet.png");
+        background: url("/IMG/Tablet.png");
         background-repeat: no-repeat;
         background-size: cover;
         padding: 0;
@@ -156,7 +156,7 @@ body{
       }
       @media only screen and (max-height:1200px){
         body{
-            background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+            background: url("/IMG/FONDO.png");
             background-repeat: no-repeat;
             background-size: cover;
             padding: 0;
@@ -188,7 +188,7 @@ body{
 @media only screen and (max-height:2200px){
   @media only screen and (max-height:1200px){
      body{
-         background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+         background: url("/IMG/FONDO.png");
          background-repeat: no-repeat;
          background-size: cover;
          padding: 0;
@@ -219,7 +219,7 @@ body{
 
 @media only screen and (max-height:2200px){
 body{
-   background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+   background: url("/IMG/FONDO.png");
    background-repeat: no-repeat;
    background-size: cover;
    padding: 0;
@@ -251,7 +251,7 @@ margin-left:600px;
 }
 @media only screen and (max-height:2200px){
 body{
-   background: url("/Users/chulezulueta/Desktop/booking/IMG/FONDO.png");
+   background: url("/IMG/FONDO.png");
    background-repeat: no-repeat;
    background-size: cover;
    padding: 0;
